@@ -145,6 +145,20 @@
             }
 
             #endregion
+
+            #region Last
+            Casa ultimaCasa = ListaCasas.Last(temp => temp.Id > 1);
+            Console.WriteLine(ultimaCasa.dameDatosCasa());
+            Console.WriteLine("_____________________________________________________");
+            var h1 = (from objHabitante in ListaHabitantes where objHabitante.Edad > 60 select objHabitante)
+                .LastOrDefault();
+            if (h1 == null)
+            {
+                Console.WriteLine("Algo fallo");
+                return;
+            }
+            Console.WriteLine(h1.datosHabitante());
+            #endregion
         }
     }
 }
