@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\bin\Debug\net6.0\IntroduccionLinq.exe
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\bin\Debug\net6.0\IntroduccionLinq.deps.json
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\bin\Debug\net6.0\IntroduccionLinq.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\bin\Debug\net6.0\IntroduccionLinq.dll
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\bin\Debug\net6.0\IntroduccionLinq.pdb
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\IntroduccionLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\IntroduccionLinq.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\IntroduccionLinq.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\IntroduccionLinq.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\IntroduccionLinq.dll
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\refint\IntroduccionLinq.dll
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\IntroduccionLinq.pdb
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\IntroduccionLinq.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\LINQ\IntroduccionLinq\IntroduccionLinq\obj\Debug\net6.0\ref\IntroduccionLinq.dll
